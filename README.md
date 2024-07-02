@@ -1,10 +1,13 @@
 # MyBlog
 
-#Home Page
+## Home Page
 ![Blog-App](https://github.com/Poojajangra/Blog-App/blob/main/HomePage.png)
-
-
-
+## Login Page
+![Blog-App](https://github.com/Poojajangra/Blog-App/blob/main/login.png)
+## Create A New Post
+![Blog-App](https://github.com/Poojajangra/Blog-App/blob/main/createpost.png)
+## Edit The Post
+![Blog-App](https://github.com/Poojajangra/Blog-App/blob/main/edit.png)
 ## Overview
 
 MyBlog is a versatile blog platform built using the MERN stack. It allows users to register, log in, create, edit, and manage their blog posts seamlessly. This application provides a secure and interactive environment for bloggers to share their content with the world.
