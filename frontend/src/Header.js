@@ -33,7 +33,7 @@ function Header() {
 
   return (
     <header>
-      <Link to="/" className="logo">NutriVerse</Link>
+      <Link to="/" className="logo">MyBlog</Link>
       <nav>
         {username ? (
           <>
