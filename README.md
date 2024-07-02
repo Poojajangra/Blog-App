@@ -26,4 +26,3 @@ MyBlog is a versatile blog platform built using the MERN stack. It allows users 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/Blog-App.git
-   cd myBlog
