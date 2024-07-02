@@ -1,5 +1,9 @@
 # MyBlog
 
+#Home Page
+![Blog-App](https://github.com/Poojajangra/Blog-App/blob/main/HomePage.png)
+
+
 
 ## Overview
 
